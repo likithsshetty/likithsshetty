@@ -1,63 +1,117 @@
 # 👋 Hi, I'm Likith S Shetty
 
-Welcome to my GitHub profile! I'm passionate about technology, coding, gaming, and learning new things. Here, you'll find a collection of my projects, experiments, and contributions.
+🎓 A dedicated and motivated **MCA fresher** with a strong foundation in computer science, currently pursuing my degree at **Reva University**. Passionate about applying my technical knowledge in dynamic and challenging environments. A quick learner, skilled team collaborator, and always eager to adapt to new technologies.
 
 ---
 
-## 🚀 About Me
+## 🚀 Objective
 
-- 🔭 I’m currently working on **AI/ML projects** for my final year.
-- 🌱 I’m learning **Web Development**, **Ethical Hacking**, and **Data Science**.
-- 🎮 I love gaming and occasionally stream or share gameplay content.
-- ✈️ I enjoy traveling and exploring new places.
-- 📚 Always open to learning and collaborating on exciting projects.
+To contribute effectively to a professional setting while expanding my technical expertise. I'm enthusiastic about problem-solving, creating innovative solutions, and continuous learning.
 
 ---
 
-## 🏆 Certifications
+## 🛠️ Skills
 
-Here are some of my Credly certifications:
+### Programming Languages
+- C, C++, Java, Python, VB.NET, PHP, JavaScript
 
-- ![Badge Title 1](https://images.credly.com/size/110x110/images/unique-id-for-badge-1.png)  
-  **[Badge Title 1](https://www.credly.com/badges/unique-badge-url-1)**  
+### Web & Backend Development
+- HTML, CSS, Bootstrap 4
+- Flask, REST APIs, Django
 
-- ![Badge Title 2](https://images.credly.com/size/110x110/images/unique-id-for-badge-2.png)  
-  **[Badge Title 2](https://www.credly.com/badges/unique-badge-url-2)**  
+### Databases
+- MySQL, MongoDB, SQLite
 
-- ![Cybersecurity Fundamentals](https://images.credly.com/size/680x680/images/50b96632-6cbb-40b7-ac0e-b83f49ff7f94/image.png)  
-  **[Cybersecurity Fundamentals](https://www.credly.com/badges/6f5db2f7-171f-442b-88dd-eccba099ddd9/public_url)**  
+### Tools & Frameworks
+- Git, GitHub, PyCharm, Jupyter Notebook
+- AWS (Experience with EC2 deployment)
+
+### Robotics
+- Developed an **Arduino-based firefighting robot**
+
+### Core Skills
+- Problem Solving | Communication Skills | Team Collaboration | Leadership | Fast Learner
 
 ---
 
-## 🛠️ Technologies & Tools
+## 📚 Education
 
-- **Languages:** Python, JavaScript, C++
-- **Frameworks & Libraries:** React, Flask, TensorFlow
-- **Tools:** Git, VS Code, Jupyter, Linux
-- **Interests:** AI/ML, Cybersecurity, Full-Stack Development
+- **Master of Computer Applications (MCA)**  
+  *Reva University* (Pursuing, Graduation: October 2025)
+
+- **Bachelor of Computer Applications (BCA)**  
+  *Acharya Institute of Graduate Studies*  
+  CGPA: **8.32**
+
+- **Pre-University (PU)**  
+  *Soundarya Composite PU College, Bengaluru*  
+  Percentage: **62%**
+
+- **10th Standard (SSLC)**  
+  *Soundarya School, Bengaluru*  
+  Percentage: **67.52%**
 
 ---
 
-## 📈 GitHub Stats
+## 🎖️ Certifications
 
-![Likith's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
+### Cisco Certified Support Technician - CyberSecurity
+- Knowledge of vulnerabilities, exploits, and risk management.
+- Hands-on experience with threat intelligence, monitoring security events, and digital forensics.
+
+### Problem Solving Certification (Hackerrank)
+- Expertise in **Data Structures** (Linked Lists, Stacks, Queues) and **Algorithms**.
+
+### Python Certification (Udemy)
+- Completed the **"100 Days of Code - The Complete Python Pro Bootcamp"**.
+- Developed expertise in automation, game development, web scraping, and more.
 
 ---
 
 ## 🌟 Projects
 
-- 🚀 **[Project Name 1](#):** Brief description of the project.
-- 🔒 **[Project Name 2](#):** Another project with a brief description.
-- 🎮 **[Game Dev Project](#):** Gaming-related project.
+### Fire Fighting Robot (BCA Final Semester Project)
+- Designed an **Arduino-based firefighting robot** equipped with a flame sensor, water pump, and servo motor.
+- Automated fire detection and response using programming logic to control the robot's movement.
+
+### Face Recognition Attendance System (5th Semester BCA Project)
+- Developed an efficient attendance system using **Python-OpenCV, SQLite, and Pandas**.
+- Implemented the **LBPH Algorithm** for face recognition, significantly improving productivity.
+
+---
+
+## 💪 Strengths
+
+- Quick Learner
+- Leadership & Motivational Skills
+- Good Team Player
+- Flexible to learn new technologies
+
+---
+
+## 🌍 Languages
+
+- **English:** Fluent  
+- **Hindi:** Proficient  
+- **Kannada:** Native  
+
+---
+
+## 📈 GitHub Stats
+
+![Likith's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
 
 ---
 
 ## 🤝 Let's Connect
 
-- [LinkedIn](https://www.linkedin.com/in/likithsshetty)  
-- [Twitter](https://twitter.com/likithsshetty)  
-- [Personal Website](https://yourwebsite.com)  
+- **Email:** likithsuresh22@gmail.com  
+- **Phone:** +91 77951 98781  
+- **Location:** Bengaluru, Karnataka  
+- [LinkedIn](https://www.linkedin.com/in/your-profile)  
+- [Credly Profile](https://www.credly.com/users/your-profile)  
+- [Portfolio Website](https://yourwebsite.com)  
 
 ---
 
-Thanks for visiting my profile! Feel free to star ⭐ any repositories you find interesting or reach out to collaborate! 😊
+Thanks for stopping by! Feel free to connect, collaborate, or just say hi. 😊
