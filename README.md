@@ -24,8 +24,8 @@ Here are some of my Credly certifications:
 - ![Badge Title 2](https://images.credly.com/size/110x110/images/unique-id-for-badge-2.png)  
   **[Badge Title 2](https://www.credly.com/badges/unique-badge-url-2)**  
 
-- ![Badge Title 3](https://images.credly.com/size/110x110/images/unique-id-for-badge-3.png)  
-  **[Badge Title 3](https://www.credly.com/badges/unique-badge-url-3)**  
+- ![Cybersecurity Fundamentals](https://images.credly.com/size/110x110/images/unique-id-for-badge-3.png)  
+  **[Cybersecurity Fundamentals](https://www.credly.com/badges/6f5db2f7-171f-442b-88dd-eccba099ddd9/public_url)**  
 
 ---
 
