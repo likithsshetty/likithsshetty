@@ -108,7 +108,7 @@ To contribute effectively to a professional setting while expanding my technical
 - **Email:** likithsuresh22@gmail.com  
 - **Phone:** +91 77951 98781  
 - **Location:** Bengaluru, Karnataka  
-- **LinkedIn:** [https://www.linkedin.com/in/likithsshetty](https://www.linkedin.com/in/your-profile)  
+- **LinkedIn:** [https://www.linkedin.com/in/likithsshetty](https://www.linkedin.com/in/likithsshetty)  
 - **Credly Profile:** [https://www.credly.com/users/likith-s-shetty](https://www.credly.com/users/likith-s-shetty)  
 - **Portfolio Website:** [Portfolio Website](https://yourwebsite.com)  
 
